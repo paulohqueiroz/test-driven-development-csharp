@@ -35,5 +35,11 @@ namespace Application.Controllers
             })
             .ToArray();
         }
+
+        public string GetSeasonName()
+        {
+            return "spring";
+
+        }
     }
 }
