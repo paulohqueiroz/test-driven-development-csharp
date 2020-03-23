@@ -1,0 +1,10 @@
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.exe
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.deps.json
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.json
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.dev.json
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.dll
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.pdb
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfoInputs.cache
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfo.cs
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.dll
+D:\_proj\_github_osf\C#\TDD\ConsoleApplication\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.pdb
